@@ -19,9 +19,8 @@
 🌐 Acesse: https://dnschecker.org
 
 
-📁 COPIAR A PASTA zappro PARA O ROOT E EXECUTAR O COMANDO ABAIXO:
 
-🔐 cd ./zappro && sudo chmod +x zappro && sudo ./zappro
+
 
 
 🔐 CREDENCIAIS DE ACESSO INICIAIS:
